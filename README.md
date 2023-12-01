@@ -1,4 +1,4 @@
-# oss-arrange
+# oss-minju
 20231618 김민주 oss 내용정리
 
 
